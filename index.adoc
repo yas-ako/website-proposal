@@ -55,30 +55,30 @@ v0.0, 2023-03-30
 // = Requirements definition of Tech Blog System - Version 1.0 - 2022-04-21
 
 [.cover-project]
-文化祭ウェブサイト
+記念祭ウェブサイト
 
 [.cover-document]
 企画書
 
 [.cover-version]
-0.0.0
+0.0.1
 
 [.cover-date]
 2023年3月30日
 
-[.cover-company]
-記念祭幹部
+// [.cover-company]
+// 記念祭幹部
 
-[.cover-address]
-住所
+// [.cover-address]
+// 住所
 
-[.cover-tel]
-電話
+// [.cover-tel]
+// 電話
 
-[.cover-email]
-メール
+// [.cover-email]
+// メール
 
-
+toc::[]
 
 == Purpose and structure
 
@@ -194,7 +194,7 @@ The revision history of this document is shown in the table below.
 // endif::[]
 
 
-toc::[]
+
 // ifdef::backend-html5[]
 // PDF版はlink:pdf/output.pdf[こちら]
 // endif::[]
