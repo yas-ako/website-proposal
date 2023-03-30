@@ -53,6 +53,7 @@ v0.0, 2023-03-30
 // :table-caption: Table
 // :figure-caption: Figure
 // = Requirements definition of Tech Blog System - Version 1.0 - 2022-04-21
+
 [.cover-project]
 文化祭ウェブサイト
 
