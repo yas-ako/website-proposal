@@ -1,6 +1,6 @@
 = 文化祭ウェブサイトに関する提案書
 v0.0, 2023-03-30
-// :homepage: 
+:revnumber: 0.0.1
 :asciidoctor:
 :backend: html5
 :docname: = 文化祭ウェブサイトに関する提案書
@@ -22,7 +22,7 @@ v0.0, 2023-03-30
 // ソースコードをハイライトする。
 :source-highlighter: highlightjs
 // リソース周り(フルパス推奨なので実際はコマンドに記載)
-:imagesdir: ./images
+// :imagesdir: ./images
 // :pdf-fontsdir: ./fonts
 // :pdf-style: ./theme/book.yml
 // 親テーマをasciidoctor-pdfの物を使うためコメントアウト
@@ -36,7 +36,7 @@ v0.0, 2023-03-30
 :figure-caption: 図
 :important-caption: 重要
 :last-update-label: 最終更新
-:manname-title: 名前
+// :manname-title: 名前
 :note-caption: 注記
 // まえがきが勝手に出るので入れない
 :preface-title:
@@ -61,7 +61,7 @@ v0.0, 2023-03-30
 企画書
 
 [.cover-version]
-0.0.1
+{revnumber}
 
 [.cover-date]
 2023年3月30日
@@ -79,6 +79,13 @@ v0.0, 2023-03-30
 // メール
 
 toc::[]
+
+//
+[[総括]]
+== 総括
+include::chapter1/index.adoc[]
+
+<<<
 
 == Purpose and structure
 
