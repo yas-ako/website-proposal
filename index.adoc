@@ -1,13 +1,11 @@
-= 会計Book
-v0.0, 2023-03-21
-:homepage: https://www.metro.ed.jp/oshukan-s/
+= 文化祭ウェブサイトに関する提案書
 :asciidoctor:
 :backend: html5
 :docname: 会計Book
 :doctype: book
 :lang: ja
-:author: 都立桜修館中等教育学校記念祭幹部会計班
-:organization: 都立桜修館中等教育学校記念祭幹部会計班
+:author: YA
+:organization: 都立桜修館中等教育学校記念祭幹部
 :toc: left
 :toclevels: 3
 :icons: font
@@ -81,15 +79,15 @@ ifdef::backend-html5[]
 PDF版はlink:pdf/output.pdf[こちら]
 endif::[]
 //
-[[記念祭の会計について]]
-== 記念祭の会計について
+[[総括]]
+== 総括
 include::part1.adoc[]
 
 <<<
 
 //
-[[配布金について]]
-== 配布金について
+[[構成]]
+== 構成
 include::part2.adoc[]
 
 <<<
